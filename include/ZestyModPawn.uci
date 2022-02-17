@@ -1419,8 +1419,8 @@ DefaultProperties
     HealAmount=3.0
 
     Begin Object Name=OuterCylinder
-        CollisionRadius=+0043.000000
-        CollisionHeight=+0060.000000
+        CollisionRadius=+0020.000000
+        CollisionHeight=+0020.000000
         BlockNonZeroExtent=true
         BlockZeroExtent=false
         BlockActors=true
